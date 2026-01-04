@@ -1,0 +1,1 @@
+openai_token = "Your OpenAI API Token"

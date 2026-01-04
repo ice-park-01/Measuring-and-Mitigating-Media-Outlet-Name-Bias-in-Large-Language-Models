@@ -1,0 +1,17 @@
+bias_text,count,ratio,rank,input_media_bias,effect
+Non-hyperpartisan,160,0.7843137254901961,1,center,affected
+Hyperpartisan,44,0.21568627450980393,2,center,affected
+Non-hyperpartisan,12,0.7058823529411765,1,center,reversely_affected
+Hyperpartisan,5,0.29411764705882354,2,center,reversely_affected
+Non-hyperpartisan,549,0.5218631178707225,1,center,unaffected
+Hyperpartisan,503,0.4781368821292776,2,center,unaffected
+Non-hyperpartisan,264,0.7115902964959568,1,left,affected
+Hyperpartisan,107,0.2884097035040431,2,left,affected
+Non-hyperpartisan,56,0.835820895522388,1,left,reversely_affected
+Hyperpartisan,11,0.16417910447761194,2,left,reversely_affected
+Hyperpartisan,434,0.5197604790419161,1,left,unaffected
+Non-hyperpartisan,401,0.4802395209580838,2,left,unaffected
+Non-hyperpartisan,455,0.7120500782472613,1,right,affected
+Hyperpartisan,184,0.28794992175273865,2,right,affected
+Hyperpartisan,368,0.580441640378549,1,right,unaffected
+Non-hyperpartisan,266,0.4195583596214511,2,right,unaffected

@@ -1,0 +1,409 @@
+Model,MediaBias,Field,Value,Overrep
+GPT-4.1-IT,right,Source,Fox News,21.19460500963391
+Qwen1.5-72B-IT,right,Source,Newsmax,15.80264357338195
+Qwen2.5-3B-IT,left,Source,Pew Research Center,15.794285714285715
+Llama-3.1-70B-Base,lean_right,Source,Pew Research Center,14.913207547169812
+Llama-3-70B-IT,right,Source,Associated Press,13.677847658979733
+Gemma-2-27B-IT,left,Source,Associated Press,12.513728323699421
+Gemma-2-27B-IT,left,Source,The Guardian,12.513728323699421
+Qwen2.5-3B-IT,lean_left,Source,Pew Research Center,12.342857142857142
+GPT-4.1-mini-IT,right,Source,Fox News,12.342560553633218
+Qwen2.5-3B-IT,left,Source,Roll Call,11.428571428571429
+Qwen2.5-3B-IT,left,Source,ProPublica,11.428571428571429
+Qwen2.5-1.5B-Base,right,Source,Rich Lowry,11.11111111111111
+Qwen2.5-32B-Base,lean_right,Source,New York Times - Opinion,10.890710382513662
+Qwen2.5-7B-Base,lean_left,Source,John Stossel,10.574257425742575
+Llama-3.1-70B-Base,right,Source,Pew Research Center,10.416666666666666
+Qwen2.5-0.5B-Base,lean_right,Source,ABC News,10.402877697841726
+Qwen2.5-1.5B-Base,lean_left,Source,Newsmax - Opinion,10.288065843621398
+GPT-4.1-IT,right,Source,Newsmax,9.99421965317919
+Qwen2.5-1.5B-Base,left,Source,Newsmax - Opinion,9.765625
+Qwen2.5-72B-Base,lean_left,Source,Vanity Fair,9.615384615384615
+GPT-4.1-IT,right,Source,CBN,9.152215799614643
+Qwen2.5-0.5B-Base,right,Source,HotAir,9.019911504424778
+GPT-4.1-mini-IT,right,Source,CBN,8.937716262975778
+Qwen1.5-72B-IT,right,Source,CBN,8.914311759343663
+Qwen2.5-0.5B-Base,right,Source,NBCNews.com,8.849557522123893
+Qwen2.5-32B-Base,lean_left,Source,Salon,8.67447306791569
+Phi-4-IT,right,Source,Newsmax,8.525179856115107
+Llama-3-8B-IT,lean_left,Source,Vanity Fair,8.501594048884165
+Qwen2.5-32B-IT,left,Source,Salon,8.435003631082061
+Qwen2.5-1.5B-Base,lean_right,Source,ProPublica,8.323144104803493
+Qwen2.5-7B-IT,right,Source,National Review,8.199501246882793
+Qwen2.5-32B-Base,lean_right,Source,Yahoo! The 360,8.196721311475411
+Qwen2.5-32B-Base,lean_right,Source,Human Rights Watch,8.196721311475411
+Llama-3.1-8B-IT,lean_left,Source,The Week - News,8.188732394366196
+Phi-4-IT,lean_right,Source,FiveThirtyEight,8.16326530612245
+Llama-3-70B-IT,lean_right,Source,Associated Press,8.022935779816514
+Qwen2.5-7B-Base,lean_left,Source,Daily Beast,7.930693069306931
+Qwen2.5-7B-Base,lean_left,Source,TheBlaze.com,7.930693069306931
+GPT-4.1-mini-IT,lean_right,Source,Breitbart News,7.688693098384729
+Qwen2.5-3B-Base,left,Source,The Week - News,7.382550335570469
+Qwen2.5-14B-Base,lean_right,Source,Time Magazine,7.326007326007326
+Qwen2.5-32B-IT,left,Source,Vanity Fair,7.262164124909223
+Qwen2.5-0.5B-Base,lean_right,Source,The Economist,7.194244604316547
+Qwen2.5-0.5B-Base,lean_right,Source,BuzzFeed News,7.194244604316547
+Qwen2.5-0.5B-IT,right,Source,Newsmax,7.160983346550357
+Llama-3-70B-IT,lean_left,Source,TheBlaze.com,7.049085659287776
+Qwen2-72B-IT,left,Source,Guest Writer - Left,7.011393514460999
+Llama-3-70B-IT,right,Source,FiveThirtyEight,6.988120195667365
+Qwen2.5-7B-Base,left,Source,CBN,6.948051948051948
+Qwen2.5-72B-Base,left,Source,Vanity Fair,6.925207756232687
+Qwen2.5-3B-IT,lean_left,Source,Snopes,6.896551724137931
+Qwen2.5-3B-IT,lean_left,Source,The Week - Opinion,6.896551724137931
+Qwen2.5-72B-IT,lean_left,Source,The Flip Side,6.8728522336769755
+Qwen2.5-1.5B-IT,lean_right,Source,Daily Mail,6.779661016949152
+Llama-3.1-70B-Base,right,Source,The Intercept,6.777777777777777
+Qwen1-72B-IT,lean_left,Source,Vanity Fair,6.696428571428571
+Qwen1-72B-IT,lean_left,Source,Guest Writer - Left,6.696428571428571
+Llama-3.1-70B-IT,right,Source,Newsmax,6.665573770491804
+Qwen2.5-72B-IT,lean_right,Source,Wall Street Journal - News,6.614904060687193
+Qwen2.5-32B-IT,lean_left,Source,The Flip Side,6.550136172319881
+Qwen2.5-32B-Base,left,Source,Salon,6.513068731848985
+Qwen2.5-14B-IT,right,Source,Bloomberg,6.46875
+Qwen2.5-72B-IT,left,Source,Daily Beast,6.356968215158924
+Mistral-Small-24B-IT,left,Source,Daily Beast,6.351446718419195
+Llama-3.3-70B-IT,lean_left,Source,The Atlantic,6.332700650759219
+Qwen1-72B-IT,lean_left,Source,Salon,6.2906249999999995
+Qwen2.5-0.5B-Base,left,Source,Yahoo! The 360,6.211180124223602
+Qwen2-72B-IT,lean_right,Source,Associated Press,6.176470588235294
+Qwen2.5-14B-IT,right,Source,ABC News,6.109375
+GPT-4.1-nano-IT,right,Source,CBN,6.086045228902372
+Qwen2.5-14B-Base,lean_left,Source,Washington Free Beacon,6.075334143377885
+Llama-3.1-70B-IT,lean_right,Source,Townhall,6.073992269464384
+Qwen2.5-0.5B-IT,left,Source,RealClearPolitics,6.044917257683215
+Qwen2.5-0.5B-Base,right,Source,ABC News,6.013274336283186
+Qwen1-72B-IT,left,Source,Daily Beast,5.927565392354125
+Qwen2.5-7B-Base,left,Source,Townhall,5.905844155844156
+GPT-4.1-IT,lean_right,Source,Townhall,5.9036697247706424
+Qwen2.5-1.5B-Base,left,Source,MarketWatch,5.859375
+GPT-4.1-IT,lean_right,Source,Fox News,5.82699868938401
+Qwen1-72B-IT,left,Source,The Guardian,5.795841716968477
+Gemma-2-27B-IT,left,Source,Christian Science Monitor,5.790514037985136
+Qwen2.5-14B-IT,right,Source,National Review,5.75
+Qwen2.5-14B-Base,lean_right,Source,CBS News,5.747863247863248
+Qwen2.5-7B-IT,left,Source,The Guardian,5.7309322033898304
+GPT-4.1-IT,lean_right,Source,CBN,5.724770642201835
+Qwen2.5-72B-Base,right,Source,ABC News,5.718355454839754
+Qwen2.5-1.5B-Base,lean_left,Source,MarketWatch,5.692901234567901
+Qwen2.5-1.5B-Base,lean_left,Source,Media Matters,5.692901234567901
+Llama-3.1-8B-Base,lean_right,Source,Media Matters,5.602240896358543
+GPT-4.1-nano-IT,left,Source,Vanity Fair,5.580357142857143
+Qwen2.5-7B-Base,left,Source,John Stossel,5.558441558441559
+Qwen2.5-1.5B-Base,right,Source,Oxford University Press,5.555555555555555
+Qwen2.5-1.5B-Base,right,Source,InfoWars,5.555555555555555
+GPT-4.1-mini-IT,left,Source,Politico,5.527602776294715
+Mistral-Small-24B-Base,lean_left,Source,The Hill,5.519417475728155
+Mistral-Small-24B-Base,lean_left,Source,New York Times - News,5.519417475728155
+Qwen2.5-14B-Base,lean_right,Source,NPR Editorial ,5.4945054945054945
+Qwen2.5-7B-IT,lean_left,Source,The Flip Side,5.459200000000001
+Qwen2.5-7B-IT,lean_left,Source,Daily Beast,5.459200000000001
+Llama-3.1-8B-IT,lean_left,Source,Daily Mail,5.4591549295774655
+Llama-3.1-8B-IT,lean_left,Source,The Daily Wire,5.4591549295774655
+Qwen2.5-0.5B-IT,right,Source,TheBlaze.com,5.455987311657415
+Qwen2.5-7B-IT,lean_right,Source,Guest Writer,5.437325905292479
+Qwen2.5-32B-Base,lean_left,Source,Pew Research Center,5.421545667447307
+Qwen2.5-1.5B-Base,left,Source,Media Matters,5.384765625
+Qwen2.5-3B-Base,right,Source,TheBlaze.com,5.364420706655711
+Llama-3.1-70B-Base,lean_right,Source,Al Jazeera,5.3261455525606465
+Gemma-2-27B-IT,lean_right,Source,Associated Press,5.313310580204777
+Llama-3-70B-IT,lean_left,Source,Guest Writer - Left,5.286814244465833
+Qwen2.5-32B-IT,right,Source,National Review,5.2224066390041495
+Qwen2.5-32B-IT,lean_left,Source,Media Matters,5.199306759098787
+Qwen2.5-14B-IT,lean_left,Source,MarketWatch,5.192107995846314
+Llama-3-70B-IT,right,Source,Bloomberg,5.175401816911251
+Qwen2.5-3B-IT,lean_right,Source,Fox News,5.165217391304347
+Mistral-Small-24B-Base,lean_left,Source,TheBlaze.com,5.151456310679611
+Qwen1-72B-IT,lean_right,Source,Associated Press,5.144945188794153
+Qwen2.5-1.5B-IT,right,Source,Axios,5.143478260869564
+Llama-3.1-8B-Base,right,Source,Business Insider,5.093378607809847
+Qwen2.5-32B-IT,left,Source,The Flip Side,5.042665214233841
+GPT-4.1-mini-IT,left,Source,The Guardian,5.025093432995195
+GPT-4.1-nano-IT,lean_right,Source,Vanity Fair,5.012629161882893
+Llama-3.1-70B-Base,lean_left,Source,New York Times - News,5.0
+Qwen2.5-7B-IT,right,Source,New York Post,4.987531172069825
+Llama-3.1-70B-IT,left,Source,Salon,4.987399770904926
+Qwen2.5-14B-Base,left,Source,Washington Free Beacon,4.9813200498132
+Llama-3.3-70B-IT,left,Source,Vanity Fair,4.979545454545454
+Llama-3.3-70B-IT,left,Source,Guest Writer - Left,4.979545454545454
+GPT-4.1-mini-IT,lean_right,Source,TheBlaze.com,4.8928046989721
+Qwen2.5-3B-Base,lean_left,Source,Daily Kos,4.892127403846154
+Qwen2.5-72B-IT,left,Source,The Guardian,4.879902200488997
+Qwen2.5-0.5B-IT,lean_right,Source,MarketWatch,4.877164056059357
+Qwen2.5-72B-IT,lean_right,Source,ABC News,4.863900044622936
+Qwen2.5-72B-IT,lean_right,Source,Townhall,4.863900044622936
+Qwen1.5-72B-IT,right,Source,TheBlaze.com,4.862351868732908
+Qwen2.5-32B-IT,right,Source,Vanity Fair,4.8493775933609955
+Qwen2.5-32B-IT,right,Source,The Daily Caller,4.8493775933609955
+Qwen2-72B-IT,lean_left,Source,MarketWatch,4.842615012106537
+Qwen2.5-32B-Base,left,Source,Vanity Fair,4.840271055179089
+GPT-4.1-mini-IT,left,Source,Vox,4.831820608649227
+Qwen2.5-72B-Base,lean_left,Source,Guest Writer - Left,4.8076923076923075
+Qwen2.5-72B-Base,lean_left,Source,John Stossel,4.8076923076923075
+Llama-3.1-8B-Base,lean_right,Source,National Review,4.80672268907563
+Llama-3-8B-IT,left,Source,CNBC,4.759666155680463
+Qwen2.5-72B-IT,right,Source,Fox Online News,4.759112519809825
+Llama-3.1-8B-Base,lean_left,Source,Wall Street Journal - News,4.706498951781971
+Llama-3.1-8B-IT,lean_right,Source,Time Magazine,4.701782820097244
+Qwen2.5-0.5B-IT,lean_left,Source,CBS News,4.690220820189275
+Qwen2.5-32B-Base,lean_left,Source,Slate,4.68384074941452
+Qwen2-72B-IT,lean_left,Source,The Flip Side,4.683050847457627
+Llama-3-70B-IT,left,Source,Daily Beast,4.593630573248408
+GPT-4.1-nano-IT,lean_right,Source,MarketWatch,4.592422502870264
+Llama-3-8B-IT,left,Source,Vanity Fair,4.589678078691876
+Llama-3-70B-IT,lean_right,Source,Time Magazine,4.587155963302752
+Llama-3.1-70B-IT,lean_right,Source,National Review,4.558807288790724
+Llama-3-70B-IT,left,Source,The Week - News,4.5495905368516825
+Llama-3-70B-IT,left,Source,Daily Kos,4.5495905368516825
+Qwen2.5-0.5B-IT,left,Source,CBS News,4.533687943262412
+Qwen2.5-0.5B-IT,left,Source,Yahoo! The 360,4.533687943262412
+Qwen2.5-0.5B-Base,lean_left,Source,Yahoo! The 360,4.4945054945054945
+GPT-4.1-nano-IT,left,Source,Rich Lowry,4.4642857142857135
+GPT-4.1-nano-IT,left,Source,Time Magazine,4.4642857142857135
+GPT-4.1-nano-IT,right,Source,Vanity Fair,4.41257584114727
+Qwen2.5-72B-IT,left,Source,Slate,4.400977995110024
+Qwen2.5-14B-IT,left,Source,Al Jazeera,4.397992227979275
+Llama-3.1-70B-IT,right,Source,Politico,4.385245901639345
+Qwen2.5-1.5B-Base,lean_right,Source,International Business Times,4.366812227074235
+Qwen2.5-1.5B-Base,lean_right,Source,Roll Call,4.366812227074235
+Qwen2.5-14B-IT,lean_right,Source,Rich Lowry,4.366812227074235
+Gemma-2-27B-IT,lean_right,Source,Newsmax,4.364505119453924
+Qwen1-72B-IT,left,Source,CNBC,4.346881287726358
+Llama-3.3-70B-IT,lean_left,Source,Yahoo! News,4.3383947939262475
+Llama-3.3-70B-IT,lean_left,Source,Mother Jones,4.3383947939262475
+Qwen2.5-72B-IT,right,Source,Reuters,4.3320126782884305
+Qwen2.5-32B-IT,lean_right,Source,Washington Free Beacon,4.310344827586206
+Qwen2.5-3B-IT,lean_right,Source,Breitbart News,4.304347826086956
+Qwen2.5-32B-IT,lean_left,Source,CNN - Editorial,4.2985268630849225
+Qwen2.5-1.5B-IT,right,Source,MarketWatch,4.286231884057972
+Llama-3.1-70B-IT,lean_right,Source,CBN,4.273881833241303
+Llama-3.1-8B-Base,right,Source,New York Times - Opinion,4.244482173174872
+Llama-3.1-8B-Base,lean_left,Source,The Guardian,4.235849056603773
+Qwen2.5-72B-IT,right,Source,BBC News,4.2099841521394605
+Llama-3.1-8B-Base,lean_right,Source,Newsmax - Opinion,4.201680672268908
+Llama-3.1-70B-IT,lean_left,Source,The Flip Side,4.18142918271288
+Qwen2.5-72B-Base,left,Source,John Stossel,4.1551246537396125
+GPT-4.1-IT,left,Source,The Hill,4.15425641025641
+Qwen2.5-14B-IT,lean_left,Source,The Atlantic,4.153686396677051
+GPT-4.1-nano-IT,lean_left,Source,ProPublica,4.143646408839778
+GPT-4.1-nano-IT,lean_left,Source,Time Magazine,4.143646408839778
+QwQ-32B-IT,lean_left,Source,National Review,4.125
+Llama-3.1-70B-IT,left,Source,Axios,4.123711340206186
+Qwen1.5-72B-IT,lean_right,Source,New York Times - Opinion,4.085801838610827
+Phi-4-IT,lean_right,Source,ProPublica,4.081632653061225
+Qwen2.5-7B-IT,lean_right,Source,New York Times - Opinion,4.077994428969359
+Qwen2.5-32B-Base,left,Source,Pew Research Center,4.070667957405615
+Qwen2-72B-IT,right,Source,Christian Science Monitor,4.051112943116241
+Llama-3.1-8B-IT,left,Source,The Week - News,4.049469964664311
+Llama-3.1-8B-Base,left,Source,The Thread,4.03257328990228
+Llama-3.1-8B-Base,left,Source,ABC News,4.03257328990228
+Llama-3.1-8B-Base,left,Source,RealClearPolitics,4.03257328990228
+Qwen2-72B-IT,left,Source,Salon,4.027716914986853
+Qwen2.5-3B-Base,lean_right,Source,RealClearPolitics,4.026845637583893
+Llama-3-8B-IT,lean_left,Source,Bloomberg,3.9917640807651438
+Llama-3-8B-IT,lean_left,Source,Pew Research Center,3.9917640807651433
+Phi-4-IT,right,Source,ABC News,3.9784172661870505
+Qwen2.5-32B-Base,right,Source,Newsmax - News,3.96600566572238
+Llama-3.1-70B-IT,right,Source,The Hill,3.9642622950819675
+Mistral-Small-24B-Base,right,Source,New York Post,3.9332247557003255
+Qwen2.5-72B-Base,right,Source,Guest Writer - Right,3.9313693752023307
+Qwen2.5-72B-Base,right,Source,BBC News,3.9313693752023307
+Qwen2.5-1.5B-IT,left,Source,Guest Writer - Right,3.9287987271280826
+GPT-4.1-nano-IT,lean_left,Source,Business Insider,3.9129834254143643
+Qwen2.5-0.5B-IT,lean_left,Source,Yahoo! The 360,3.908517350157729
+Llama-3.3-70B-IT,right,Source,New York Times - News,3.8913738019169326
+Phi-4-IT,left,Source,Reuters,3.885135135135135
+GPT-4.1-nano-IT,right,Source,American Spectator,3.861003861003861
+Gemma-2-27B-IT,lean_left,Source,Yahoo! The 360,3.856749311294766
+Llama-3.1-70B-IT,lean_left,Source,The Dispatch,3.851091142490372
+Llama-3.1-70B-IT,lean_left,Source,Yahoo! News,3.851091142490372
+Qwen2.5-1.5B-IT,lean_left,Source,Guest Writer - Right,3.8378870673952643
+Llama-3-70B-IT,lean_right,Source,New York Post,3.8226299694189603
+Llama-3-70B-IT,lean_left,Source,Daily Beast,3.8182547321142124
+Gemma-2-27B-IT,lean_right,Source,Wall Street Journal - News,3.795221843003413
+Llama-3.3-70B-IT,left,Source,Yahoo! The 360,3.787878787878788
+Llama-3.3-70B-IT,right,Source,NPR Online News,3.7871405750798726
+Phi-4-IT,lean_right,Source,Business Insider,3.7768707482993196
+Llama-3.1-70B-Base,lean_right,Source,Daily Targum,3.7735849056603774
+Qwen2.5-1.5B-IT,left,Source,American Spectator,3.7417130734553172
+Qwen2.5-14B-Base,left,Source,Scientific American,3.7359900373599007
+Qwen2.5-14B-Base,left,Source,Mother Jones,3.7359900373599007
+GPT-4.1-mini-IT,right,Source,Wall Street Journal - News,3.724048442906574
+Qwen2.5-32B-IT,lean_right,Source,Townhall,3.710560344827586
+Mistral-Small-24B-Base,right,Source,CBN,3.7084690553745934
+Qwen2.5-1.5B-IT,lean_left,Source,The Flip Side,3.7008196721311473
+GPT-4.1-IT,left,Source,The Flip Side,3.692307692307692
+Qwen2.5-14B-IT,lean_right,Source,Pew Research Center,3.6826783114992723
+Qwen2.5-0.5B-IT,lean_right,Source,TheBlaze.com,3.657873042044518
+Qwen2.5-14B-Base,lean_left,Source,BET,3.6452004860267313
+Qwen2.5-14B-Base,lean_left,Source,Mother Jones,3.6452004860267313
+Qwen2.5-72B-IT,lean_left,Source,Salon,3.6426116838487976
+Qwen2.5-72B-IT,lean_left,Source,Daily Beast,3.6426116838487976
+Qwen2-72B-IT,lean_left,Source,CNN - Editorial,3.6319612590799033
+Qwen2.5-3B-Base,lean_left,Source,The Week - News,3.623798076923077
+Qwen2.5-1.5B-IT,right,Source,New York Magazine,3.6231884057971016
+Qwen2.5-0.5B-Base,left,Source,The Flip Side,3.5965690624075717
+Qwen2.5-0.5B-IT,right,Source,Wall Street Journal - News,3.5804916732751786
+GPT-4.1-nano-IT,lean_right,Source,The Flip Side,3.5804494013449237
+Qwen2.5-32B-Base,right,Source,Guest Writer - Left,3.578847969782814
+Llama-3-8B-IT,left,Source,Business Insider,3.5769034236075625
+Mistral-Small-24B-IT,lean_right,Source,Politico,3.571428571428571
+Qwen2.5-14B-Base,right,Source,ABC News,3.5599743425272607
+Llama-3.1-8B-Base,right,Source,National Review,3.5594227504244484
+GPT-4.1-IT,lean_left,Source,Vanity Fair,3.5460992907801416
+Qwen2.5-14B-IT,lean_right,Source,CNBC,3.5353711790393016
+Mistral-Small-24B-IT,left,Source,Axios,3.5285815102328866
+Mistral-Small-24B-IT,left,Source,Vanity Fair,3.5285815102328866
+Llama-3.1-8B-IT,lean_right,Source,Yahoo! The 360,3.5263371150729337
+Llama-3.1-8B-IT,right,Source,Bloomberg,3.524913718723037
+Qwen2-72B-IT,right,Source,New York Times - News,3.479802143446002
+Qwen1.5-72B-IT,left,Source,BBC News,3.4764207980652966
+Llama-3.1-70B-Base,right,Source,Grist,3.472222222222222
+GPT-4.1-mini-IT,lean_left,Source,The Guardian,3.4623531677257846
+Qwen1-72B-IT,lean_right,Source,Christian Science Monitor,3.4567600487210717
+Llama-3.3-70B-IT,lean_right,Source,Fox News,3.4545454545454546
+Qwen2.5-32B-IT,lean_right,Source,Axios,3.4482758620689653
+Qwen1.5-72B-IT,lean_left,Source,Pew Research Center,3.4388185654008434
+Qwen2.5-7B-IT,left,Source,New York Post,3.4385593220338984
+Qwen2.5-7B-IT,left,Source,Daily Beast,3.4385593220338984
+Llama-3.1-70B-IT,left,Source,Washington Free Beacon,3.4364261168384878
+Qwen2.5-1.5B-IT,lean_right,Source,The Daily Wire,3.4192090395480226
+Phi-4-IT,left,Source,Associated Press,3.418918918918919
+Qwen2.5-1.5B-IT,lean_right,Source,Newsmax - Opinion,3.389830508474576
+Qwen2.5-1.5B-IT,left,Source,National Review,3.367541766109785
+Qwen1.5-72B-IT,left,Source,Reuters,3.3373639661426844
+Llama-3.1-70B-Base,lean_left,Source,The Hill,3.333333333333333
+Qwen2.5-14B-Base,right,Source,Reason,3.3226427196921104
+Phi-4-IT,right,Source,Pew Research Center,3.320420586607637
+Llama-3.1-8B-Base,lean_left,Source,ABC News,3.2945492662473796
+Qwen2.5-1.5B-IT,lean_left,Source,National Review,3.289617486338798
+Qwen2.5-3B-Base,right,Source,Independent Journal Review,3.286770747740345
+Qwen2.5-3B-Base,right,Source,Axios,3.286770747740345
+Qwen2.5-7B-IT,right,Source,Guest Writer - Right,3.2798004987531173
+Qwen2.5-3B-Base,left,Source,Daily Beast,3.2793863854266534
+Llama-3.3-70B-IT,right,Source,Christian Science Monitor,3.265974440894569
+Mistral-Small-24B-Base,right,Source,John Stossel,3.257328990228013
+Qwen2.5-0.5B-IT,lean_right,Source,ProPublica,3.2514427040395715
+Llama-3.1-8B-IT,lean_right,Source,Yahoo! News,3.2414910858995136
+Qwen2.5-14B-IT,left,Source,MarketWatch,3.2383419689119166
+Qwen2.5-14B-IT,left,Source,Slate,3.2383419689119166
+Qwen2-72B-IT,lean_right,Source,Newsmax,3.235294117647059
+Qwen2-72B-IT,lean_right,Source,Bloomberg,3.235294117647059
+Qwen2-72B-IT,left,Source,The Guardian,3.2221735319894824
+Mistral-Small-24B-Base,lean_right,Source,CBN,3.2125516102394713
+Qwen2.5-72B-Base,left,Source,Townhall,3.206258890469417
+Qwen2.5-7B-Base,lean_right,Source,CNN - Editorial,3.1627565982404695
+Qwen2.5-0.5B-IT,lean_left,Source,MSNBC,3.1545741324921135
+Qwen2.5-14B-Base,right,Source,Fox Online News,3.1327774214239894
+GPT-4.1-mini-IT,lean_left,Source,Newsmax - News,3.116117850953206
+GPT-4.1-mini-IT,lean_left,Source,Pew Research Center,3.116117850953206
+Qwen2.5-14B-IT,lean_left,Source,Vanity Fair,3.115264797507788
+GPT-4.1-IT,lean_left,Source,Fox News,3.1116222605584305
+Phi-4-IT,left,Source,National Review,3.1081081081081083
+GPT-4.1-IT,left,Source,Vanity Fair,3.0769230769230766
+Qwen2.5-3B-Base,lean_right,Source,Reason,3.0762416107382546
+GPT-4.1-mini-IT,lean_right,Source,Townhall,3.075477239353891
+Qwen1.5-72B-IT,lean_right,Source,Business Insider,3.0643513789581203
+Qwen1.5-72B-IT,lean_right,Source,Washington Free Beacon,3.0643513789581203
+Gemma-2-27B-IT,lean_left,Source,The Atlantic,3.0622589531680444
+Qwen2.5-7B-IT,lean_right,Source,American Spectator,3.0584958217270195
+Mistral-Small-24B-IT,lean_left,Source,Vanity Fair,3.038753799392097
+Qwen2.5-3B-Base,lean_left,Source,HotAir,3.0048076923076925
+Qwen2.5-0.5B-Base,lean_left,Source,Scientific American,2.9963369963369964
+Llama-3-8B-IT,lean_right,Source,Washington Times,2.975972540045767
+Qwen2.5-32B-Base,right,Source,Washington Times,2.940879418647617
+Qwen2.5-7B-Base,lean_right,Source,New York Times (Online News),2.932551319648094
+Qwen2.5-7B-Base,lean_right,Source,Victor Hanson,2.932551319648094
+Qwen2.5-3B-Base,lean_right,Source,CBN,2.929753914988814
+Qwen2-72B-IT,right,Source,NPR Online News,2.9084913437757627
+Mistral-Small-24B-Base,lean_right,Source,John Stossel,2.890173410404624
+Mistral-Small-24B-Base,lean_right,Source,New York Times - Opinion,2.890173410404624
+Phi-4-IT,lean_left,Source,Daily Beast,2.8866396761133606
+Phi-4-IT,lean_left,Source,Salon,2.8866396761133606
+Phi-4-IT,lean_left,Source,Axios,2.8866396761133606
+GPT-4.1-IT,lean_left,Source,The Flip Side,2.878250591016548
+Qwen2.5-0.5B-Base,left,Source,Scientific American,2.8772552499260575
+Gemma-2-27B-IT,lean_left,Source,Associated Press,2.863410969196093
+Llama-3.1-8B-IT,right,Source,The Flip Side,2.75862812769629
+Qwen1.5-72B-IT,lean_left,Source,The Daily Caller,2.751054852320675
+Qwen2.5-0.5B-Base,lean_left,Source,Yahoo! News,2.7472527472527473
+Qwen2.5-3B-IT,right,Source,NPR Online News,2.7374301675977657
+Qwen2.5-7B-IT,lean_left,Source,Independent Journal Review,2.7296000000000005
+Llama-3.3-70B-IT,lean_right,Source,Wall Street Journal - News,2.7272727272727275
+Llama-3.3-70B-IT,lean_right,Source,Fox Online News,2.7272727272727275
+Qwen1.5-72B-IT,left,Source,New York Times - News,2.711608222490931
+Qwen2.5-7B-Base,right,Source,The Week - Opinion,2.7027027027027026
+Mistral-Small-24B-IT,lean_left,Source,Business Insider,2.701114488348531
+Llama-3.1-8B-IT,left,Source,Daily Mail,2.6996466431095403
+Llama-3.1-8B-IT,left,Source,Fox News (Online),2.6996466431095403
+Qwen2.5-3B-Base,left,Source,Rich Lowry,2.6845637583892614
+Llama-3-8B-IT,lean_right,Source,Townhall,2.645308924485126
+Llama-3-8B-IT,lean_right,Source,Vice,2.645308924485126
+Mistral-Small-24B-IT,lean_right,Source,The Hill,2.633928571428571
+Llama-3.1-70B-Base,left,Source,The Guardian,2.6133333333333337
+Mistral-Small-24B-IT,lean_right,Source,Washington Times,2.589285714285714
+Qwen2.5-3B-IT,lean_right,Source,FiveThirtyEight,2.5826086956521737
+Qwen1.5-72B-IT,lean_left,Source,Ben Shapiro,2.579113924050633
+Qwen1-72B-IT,lean_right,Source,Guest Writer - Left,2.5724725943970763
+Qwen2.5-7B-Base,right,Source,The Atlantic,2.567367367367367
+Mistral-Small-24B-IT,lean_left,Source,BuzzFeed News,2.532294832826748
+Qwen2.5-7B-Base,right,Source,New York Post,2.5272522522522523
+Llama-3.1-8B-IT,right,Source,Associated Press,2.513416738567731
+Llama-3.1-70B-Base,lean_left,Source,Christian Science Monitor,2.5
+QwQ-32B-IT,left,Source,National Review,2.4144144144144146
+QwQ-32B-IT,left,Source,Christian Science Monitor,2.4144144144144146
+Qwen1-72B-IT,right,Source,Christian Science Monitor,2.315942028985507
+Llama-3.1-70B-Base,left,Source,The Hill,2.177777777777778
+Llama-3.1-70B-Base,left,Source,New York Times - News,2.1777777777777776
+Qwen1-72B-IT,right,Source,NPR Online News,2.1681159420289857
+QwQ-32B-IT,lean_left,Source,The Hill,2.0625
+QwQ-32B-IT,lean_left,Source,CNN (Web News),2.0625
+Qwen2.5-72B-Base,lean_right,Source,Reason,2.010381781647689
+Qwen2.5-72B-Base,lean_right,Source,John Stossel,2.0093770931011385
+Qwen2.5-72B-Base,lean_right,Source,Foreign Policy,2.0093770931011385
+Qwen2.5-3B-IT,right,Source,Reuters,1.9553072625698324
+Gemma-2-27B-IT,right,Source,CNN (Web News),1.8227114716106605
+QwQ-32B-IT,lean_right,Source,Fox Online News,1.7876106194690264
+QwQ-32B-IT,lean_right,Source,Washington Times,1.7876106194690264
+Gemma-2-27B-IT,right,Source,Politico,1.6952491309385862
+Qwen1-72B-IT,right,Source,Washington Times,1.6753623188405797
+Llama-3-8B-IT,right,Source,Christian Science Monitor,1.6567796610169492
+Gemma-2-27B-IT,right,Source,NPR Online News,1.6187717265353418
+Mistral-Small-24B-Base,left,Source,Fox Online News,1.5753333333333333
+Llama-3-8B-IT,right,Source,NPR Online News,1.461864406779661
+Qwen2.5-3B-IT,right,Source,Fox News,1.3687150837988828
+Llama-3-8B-IT,right,Source,USA TODAY,1.2669491525423728
+Mistral-Small-24B-Base,left,Source,USA TODAY,1.258
+QwQ-32B-IT,left,Source,BBC News,1.2072072072072073
+Mistral-Small-24B-IT,right,Source,USA TODAY,1.1800664451827243
+Qwen2.5-72B-IT-HP,left,Source,N/A,1.0
+Phi-4-IT-HP,lean_right,Source,N/A,1.0
+Qwen2.5-72B-IT-HP,lean_left,Source,N/A,1.0
+Mistral-Small-24B-IT-HP,lean_right,Source,N/A,1.0
+Qwen2.5-72B-IT-HP,lean_right,Source,N/A,1.0
+GPT-4.1-IT-HP,left,Source,N/A,1.0
+Phi-4-IT-HP,lean_left,Source,N/A,1.0
+Llama-3.3-70B-IT-HP,lean_left,Source,N/A,1.0
+GPT-4.1-IT-HP,right,Source,N/A,1.0
+Llama-3.3-70B-IT-HP,lean_right,Source,N/A,1.0
+Mistral-Small-24B-IT-HP,right,Source,N/A,1.0
+GPT-4.1-IT-HP,lean_right,Source,N/A,1.0
+GPT-4.1-IT-HP,lean_left,Source,N/A,1.0
+Llama-3.3-70B-IT-HP,left,Source,N/A,1.0
+Gemma-2-27B-IT-HP,right,Source,N/A,1.0
+Mistral-Small-24B-IT-HP,left,Source,N/A,1.0
+Gemma-2-27B-IT-HP,lean_right,Source,N/A,1.0
+Gemma-2-27B-IT-HP,lean_left,Source,N/A,1.0
+Gemma-2-27B-IT-HP,left,Source,N/A,1.0
+Phi-4-IT-HP,left,Source,N/A,1.0
+Llama-3.3-70B-IT-HP,right,Source,N/A,1.0
+Phi-4-IT-HP,right,Source,N/A,1.0
+Qwen2.5-72B-IT-HP,right,Source,N/A,1.0
+Mistral-Small-24B-IT-HP,lean_left,Source,N/A,1.0
+QwQ-32B-IT,lean_right,Source,N/A,0.9841901163368798
+QwQ-32B-IT,right,Source,N/A,0.9690237797246558
+Mistral-Small-24B-Base,left,Source,CNN (Web News),0.935
+Mistral-Small-24B-IT,right,Source,CNN (Web News),0.8823920265780731
+Mistral-Small-24B-IT,right,Source,Christian Science Monitor,0.8717607973421927
+QwQ-32B-IT,right,Source,Washington Times,0.6063829787234042
+QwQ-32B-IT,right,Source,Fox Online News,0.4042553191489362

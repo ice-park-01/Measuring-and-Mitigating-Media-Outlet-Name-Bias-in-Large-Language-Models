@@ -1,0 +1,20 @@
+# System files
+.DS_Store
+*.pyc
+__pycache__/
+
+# Large files / Archives
+*.zip
+*.tar.gz
+
+# Project specific ignores
+figure/
+logs/
+발표자료/
+실험결과 정리/
+참고 논문/
+
+# Code directory exclusions (only keep main)
+code/_main/
+code/llm-candidate/
+code/main.zip

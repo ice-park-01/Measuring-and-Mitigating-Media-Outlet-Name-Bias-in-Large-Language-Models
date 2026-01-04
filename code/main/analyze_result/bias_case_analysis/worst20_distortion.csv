@@ -1,0 +1,21 @@
+Model,ArticleID,MediaBias,ArticleLabel,BaselinePred,NewPred,Case,Impact,Topic,Source,HP,Move
+Qwen2.5-72B-IT,GdSMrKf2wgaPNYZE,lean_right,left,left,right,amplify,distortion,elections,Vox,left,4
+Qwen2.5-72B-IT,GdSMrKf2wgaPNYZE,right,left,left,right,amplify,distortion,elections,Vox,left,4
+Qwen2.5-72B-IT,aLhVOeJy8KBgjzEP,lean_right,left,left,right,amplify,distortion,fbi,Vice,left,4
+Qwen2.5-72B-IT,aLhVOeJy8KBgjzEP,right,left,left,right,amplify,distortion,fbi,Vice,left,4
+Qwen2.5-72B-IT,bnFYpyMJ6kYoPYx9,lean_right,left,left,right,amplify,distortion,elections,Salon,left,4
+Qwen2.5-72B-IT,bnFYpyMJ6kYoPYx9,right,left,left,right,amplify,distortion,elections,Salon,left,4
+Qwen2.5-72B-IT,1oCO41E2524SwLid,lean_right,left,left,right,amplify,distortion,federal_budget,Daily Beast,left,4
+Qwen2.5-72B-IT,1oCO41E2524SwLid,right,left,left,right,amplify,distortion,federal_budget,Daily Beast,left,4
+Qwen2.5-72B-IT,BpsQtoaDSHelcis7,lean_right,left,left,right,amplify,distortion,immigration,The Guardian,left,4
+Qwen2.5-72B-IT,BpsQtoaDSHelcis7,right,left,left,right,amplify,distortion,immigration,The Guardian,left,4
+Qwen2.5-72B-IT,YHlrjAgIgAQACBCg,lean_right,left,left,right,amplify,distortion,us_senate,The Guardian,left,4
+Qwen2.5-72B-IT,YHlrjAgIgAQACBCg,right,left,left,right,amplify,distortion,us_senate,The Guardian,left,4
+Qwen2.5-72B-IT,d9JLfVj3A38CC467,right,left,left,right,amplify,distortion,democratic_party,New York Times - News,left,4
+Qwen2.5-72B-IT,Al6buzyLbKQOUIPV,right,left,left,right,amplify,distortion,elections,Vox,left,4
+Qwen2.5-72B-IT,HDBmng1LuKiC5JIL,lean_right,left,left,right,amplify,distortion,elections,Politico,left,4
+Qwen2.5-72B-IT,HDBmng1LuKiC5JIL,right,left,left,right,amplify,distortion,elections,Politico,left,4
+Qwen2.5-72B-IT,M6yewwHCsDMohINi,right,left,left,right,amplify,distortion,business,New Republic,left,4
+Qwen2.5-72B-IT,wPSryxsIlYFQf4PF,right,left,left,right,amplify,distortion,violence_in_america,Salon,left,4
+Qwen2.5-72B-IT,ffFFND1lkoZIDwXX,lean_right,left,left,right,amplify,distortion,elections,Daily Beast,left,4
+Qwen2.5-72B-IT,ffFFND1lkoZIDwXX,right,left,left,right,amplify,distortion,elections,Daily Beast,left,4
